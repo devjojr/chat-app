@@ -1,0 +1,5 @@
+Flask==3.0.3
+Flask-SocketIO==5.4.1
+confluent-kafka==2.5.3
+mysql-connector-python==9.0.0
+python-dotenv==1.0.1
